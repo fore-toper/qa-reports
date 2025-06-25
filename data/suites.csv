@@ -1,2 +1,3 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","40214","TC_LGN_02 Pengguna dapat Login Aplikasi Fore Coffee","","Mon Jun 23 15:13:43 WIB 2025","passed","Mon Jun 23 15:14:23 WIB 2025","","Login","",""
+"","71440","TC_LGN_01 Pengguna dapat Register Pengguna baru Aplikasi Fore Coffee","","Wed Jun 25 22:03:18 WIB 2025","passed","Wed Jun 25 22:04:30 WIB 2025","","Register","",""
+"","39623","TC_LGN_02 Pengguna dapat Login Aplikasi Fore Coffee","","Wed Jun 25 22:04:43 WIB 2025","passed","Wed Jun 25 22:05:22 WIB 2025","","Login","",""
